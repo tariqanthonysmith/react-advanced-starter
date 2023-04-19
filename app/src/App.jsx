@@ -1,11 +1,11 @@
 import './App.css'
-import UserChallenge from './03-conditional-rendering/ternary-operator-challenge'
+import Navbar from './05-context-api/propdrill-challenge-navbar'
 
 
 function App() {
   return (
-    <div className="container">
-     <UserChallenge/>
+    <div>
+     <Navbar/>
     </div>
   )
 }
